@@ -1,4 +1,4 @@
-# olx-number-scraper
+# olx-phone-number-scraper
 Olx phone number scraper for sell made in python (300 numbers per 1 min)
 
 
